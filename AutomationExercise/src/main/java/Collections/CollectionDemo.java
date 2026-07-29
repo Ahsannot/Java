@@ -15,6 +15,7 @@ public class CollectionDemo {
 
     public void arrayListDemo(){
 
+        @SuppressWarnings("unused")
         ArrayList listGeneric = new ArrayList();
         ArrayList<String> listString = new ArrayList<String>();
         ArrayList<String> listRecommended = new ArrayList<>();
