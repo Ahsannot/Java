@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-25T18:10:27 PKT" name="OrangeHRM Test Suite" finished-at="2025-09-25T18:10:36 PKT" duration-ms="8743">
+    <groups>
+    </groups>
+    <test started-at="2025-09-25T18:10:27 PKT" name="Login Tests" finished-at="2025-09-25T18:10:36 PKT" duration-ms="8743">
+      <class name="org.example.LoginTest">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:org.example.LoginTest@1bd4fdd]" started-at="2025-09-25T18:10:28 PKT" name="setUp" finished-at="2025-09-25T18:10:35 PKT" duration-ms="7887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@64c781a9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:org.example.LoginTest@1bd4fdd]" started-at="2025-09-25T18:10:35 PKT" name="validLoginTest" finished-at="2025-09-25T18:10:36 PKT" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.LoginTest@1bd4fdd]" started-at="2025-09-25T18:10:36 PKT" name="tearDown" finished-at="2025-09-25T18:10:36 PKT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.LoginTest -->
+    </test> <!-- Login Tests -->
+  </suite> <!-- OrangeHRM Test Suite -->
+</testng-results>
